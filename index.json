@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "depends": [
+    "bokeh >=2.4.2",
+    "cytoolz >=0.12.0",
+    "dask-core 2024.8.2",
+    "dask-expr >=1.1,<1.2",
+    "distributed 2024.8.2",
+    "jinja2 >=2.10.3",
+    "lz4 >=4.3.2",
+    "numpy >=1.24",
+    "pandas >=2.0",
+    "pyarrow >=14.0.1",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "name": "dask",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1725525041100,
+  "version": "2024.8.2"
+}
